@@ -1,0 +1,38 @@
+_repo: Le-donne-dei-Cesari_73236
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ferrero, Guglielmo
+    birthdate: 1871
+    deathdate: 1942
+    gutenberg_agent_id: '4910'
+    url: http://www.gutenberg.org/2009/agents/4910
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Guglielmo_Ferrero
+    - https://en.wikipedia.org/wiki/Guglielmo_Ferrero
+description: ''
+gutenberg_issued: '2024-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73236'
+language: it
+pgterms:marc905: 20230104042225ferrero
+pgterms:marc906: '1925'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by the HathiTrust Digital Library)
+publication_note: '  $aMilano :$bAthena, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Rome -- Biography'
+- !lcsh 'Empresses -- Rome -- Biography'
+- !lcsh 'Princesses -- Rome -- Biography'
+- !lcc 'DG'
+- GITenberg
+tableOfContents: La donna in Roma antica -- Livia -- Le figlie d'Agrippa -- Tiberio
+  e Agrippina -- La moglie di Caligola e il matrimonio di Messalina -- La madre di
+  Nerone.
+title: Le donne dei Cesari
+url: http://www.gutenberg.org/ebooks/73236
