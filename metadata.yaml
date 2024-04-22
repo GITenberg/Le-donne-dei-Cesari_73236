@@ -1,5 +1,8 @@
 _repo: Le-donne-dei-Cesari_73236
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73236-h/images/cover.jpg
 creator:
   author:
     agent_name: Ferrero, Guglielmo
@@ -11,6 +14,8 @@ creator:
     - https://it.wikipedia.org/wiki/Guglielmo_Ferrero
     - https://en.wikipedia.org/wiki/Guglielmo_Ferrero
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73236#Le-donne-dei-Cesari
 gutenberg_issued: '2024-03-23'
 gutenberg_type: Text
 identifiers:
